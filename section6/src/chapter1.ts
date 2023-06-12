@@ -30,6 +30,7 @@ class Employee {
 
 class ExecutivesOfficer extends Employee {
   officeNumber: number;
+
   constructor(
     name: string,
     age: number,
